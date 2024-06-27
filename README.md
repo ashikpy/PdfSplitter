@@ -12,3 +12,10 @@
 - Fitz - For the PyMuPDF
 - reportlan.libpagesizes - for the page size (specifially the a0 size)
 - tkinter - for the filedialog (for file navigation)
+
+# Useage 
+- You can just start using this, by running the `main.py`
+```lua
+python3 main.py
+```
+- For `mac` Download the `.dmg` from the release section.
